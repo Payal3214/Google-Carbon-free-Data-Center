@@ -1,4 +1,4 @@
-🌍 Google Carbon-Free Data Centers:
+🌍 GOOGLE CARBON FREE DATA CENTER
 
 This project investigates how Google data centers can transition to 24/7 carbon-free energy (CFE) by analyzing electricity generation, grid emissions, tariffs, incentives, and demand profiles in India and the United States. Using real-world datasets from government sources (POSOCO, CEA, EIA, OGD) combined with manually built components, the project creates a unified framework for comparing renewable penetration, electricity prices, and policy landscapes across regions.
 
