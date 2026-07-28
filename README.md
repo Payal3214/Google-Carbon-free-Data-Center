@@ -42,15 +42,7 @@ centers on 100% carbon-free energy, every hour of every day, by 2030.
 | `RAW_SOURCE_State_Region_corrected.csv` | Original, untouched file from the source GitHub repo | Real, unmodified |
 | `RAW_SOURCE_India_monthly_data.csv` | Original, untouched POSOCO/CEA national monthly generation-mix file from the source repo | Real, unmodified |
 
-**Note on the earlier project vision:** the original scope described a much
-larger dataset — hourly `renewables_timeseries.csv`, `demand_profiles.csv`,
-`complete_seda.csv` emission factors, `latency.csv` simulations, US files
-(`pr_US.csv`), etc. Most of those files either don't exist in the source repo
-or don't exist as ready-to-use, state-level Indian data anywhere publicly. To
-keep this project honest and runnable, it was rebuilt around **only the data
-that's real or reasonably estimable**, listed in the table above. See
-**Data Sourcing & Honesty** for the full breakdown of what's real vs.
-estimated.
+
 
 ##  Methodology
 
